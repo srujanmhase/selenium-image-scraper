@@ -8,7 +8,7 @@ from xlwt import Workbook
 
 # store the URL in url as 
 # parameter for urlopen
-url = "https://pixabay.com/api/?key=21978755-d8af7d021c8224f78d2c030b9&q=dirty+air&image_type=photo&pretty=true"
+url = "https://pixabay.com/api/?key={your-key}&q=dirty+air&image_type=photo&pretty=true"
 
   
 # store the response of URL
